@@ -5,3 +5,4 @@ Contains data about the speakers who came in to give a lecture on advancements i
 
 - Leah Garcia + Andy Reeser
 - Chenxi Yu
+- David Hundley
